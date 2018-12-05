@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="119.453" tests="1" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\pmanala\workspace_New\automation-cucumber-demo"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\pmanala\workspace_New\automation-cucumber-demo"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\pmanala\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 7"/>
+    <property name="classworlds.conf" value="C:\Users\pmanala\workspace_New\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4574053182470946333.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\System32\wbem;E:\apache-maven-3.3.9\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Users\pmanala\AppData\Local\Android\Sdk\platform-tools;C:\Users\pmanala\AppData\Local\Android\Sdk\tools;C:\Users\pmanala\AppData\Local\Android\Sdk\tools\bin;C:\Users\pmanala\AppData\Local\Android\Sdk;C:\Program Files\Git\cmd;C:\Windows\System32;C:\Program Files\Microsoft VS Code\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\pmanala\AppData\Roaming\npm;E:\eclipse-jee-oxygen-3a-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="6.1"/>
+    <property name="user.home" value="C:\Users\pmanala"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="pmanala"/>
+    <property name="java.class.path" value="E:\eclipse-jee-oxygen-3a-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_131\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\pmanala\workspace_New\automation-cucumber-demo\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="feature" classname="com.cucumber.testRunner.CRMLogin_BackgroundKeywordRunner" time="112.71">
+    <failure message="org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;PMANALA&apos;, ip: &apos;192.168.2.151&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;&#10;Driver info: driver.version: RemoteWebDriver" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: 
+org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PMANALA', ip: '192.168.2.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+Caused by: org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PMANALA', ip: '192.168.2.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: driver.version: RemoteWebDriver
+</failure>
+    <system-out><![CDATA[ INFO [main] (Base.java:54)- Chrome Browser is launched
+ INFO [main] (Base.java:56)- Chrome Browser is maximised
+ INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.freecrm.com/index.html
+ INFO [main] (CRMApplication.java:31)- Login Page Title is Captured
+The Actual title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
+The Expected title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
+Expected and Actual Titles are Matched
+Screenshot taken
+ INFO [main] (CRMApplication.java:42)- The entered UserName is : praneethmanala
+ INFO [main] (CRMApplication.java:45)- The entered Password is : praneethmanala
+ INFO [main] (CRMApplication.java:62)- Submit Button is Clicked
+ INFO [main] (CRMApplication.java:68)- Home Page Title is Captured
+The Actual Home Page title is:CRMPRO
+The Expected Home Page title is:CRMPRO
+The Expected and Actual Home Page Titles are matched 
+Screenshot taken
+ INFO [main] (Base.java:74)- Browser is Closed
+ INFO [main] (Base.java:54)- Chrome Browser is launched
+ INFO [main] (Base.java:56)- Chrome Browser is maximised
+ INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.freecrm.com/index.html
+ INFO [main] (CRMApplication.java:31)- Login Page Title is Captured
+The Actual title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
+The Expected title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
+Expected and Actual Titles are Matched
+Screenshot taken
+ INFO [main] (CRMApplication.java:51)- The entered UserName is : praneethmanala
+ INFO [main] (CRMApplication.java:54)- The entered Password is : praneethmanala
+ INFO [main] (CRMApplication.java:62)- Submit Button is Clicked
+ INFO [main] (CRMApplication.java:68)- Home Page Title is Captured
+The Actual Home Page title is:CRMPRO
+The Expected Home Page title is:CRMPRO
+The Expected and Actual Home Page Titles are matched 
+Screenshot taken
+ INFO [main] (Base.java:74)- Browser is Closed
+ INFO [main] (Base.java:54)- Chrome Browser is launched
+ INFO [main] (Base.java:56)- Chrome Browser is maximised
+ INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.freecrm.com/index.html
+ INFO [main] (CRMApplication.java:31)- Login Page Title is Captured
+The Actual title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
+The Expected title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
+Expected and Actual Titles are Matched
+Screenshot taken
+ INFO [main] (CRMApplication.java:51)- The entered UserName is : praneeth
+ INFO [main] (CRMApplication.java:54)- The entered Password is : praneeth
+ INFO [main] (CRMApplication.java:62)- Submit Button is Clicked
+ INFO [main] (CRMApplication.java:68)- Home Page Title is Captured
+The Actual Home Page title is:CRMPRO
+The Expected Home Page title is:CRMPRO
+The Expected and Actual Home Page Titles are matched 
+Screenshot taken
+ INFO [main] (Base.java:74)- Browser is Closed
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 38846
+Only local connections are allowed.
+Dec 03, 2018 6:17:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+[1543841237.379][WARNING]: Timed out connecting to Chrome, retrying...
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 43829
+Only local connections are allowed.
+Dec 03, 2018 6:18:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 20872
+Only local connections are allowed.
+Dec 03, 2018 6:18:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+</testsuite>

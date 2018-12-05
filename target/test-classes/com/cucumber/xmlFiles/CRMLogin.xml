@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+	<test name="Test" parallel="false" thread-count="1">
+		<classes>
+			<class name="com.cucumber.testRunner.CRMLogin_BackgroundKeywordRunner"></class>
+		</classes>
+	</test>
+	</suite>

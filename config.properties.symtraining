@@ -1,0 +1,107 @@
+# Send Email Properties
+smtp=smtp.office365.com
+port=587
+useremail=gpadidala@charterglobal.com
+userpassword=Charter123
+from=gpadidala@charterglobal.com
+to=gpadidala@charterglobal.com,sbusireddy@charterglobal.com
+cc=sbusireddy@charterglobal.com
+
+# running scripts locally or using remote webdriver. 
+runScripts=remote
+#local,remote
+
+# running scripts in small screen or bigger screen.
+screenResolution= smallscreen
+#smallscreen,bigscreen
+
+#################################### Environment Setup #############################################
+# Test Environment
+Test_Environment = SymTraining
+
+#qap DT Post url
+dturl= 
+
+
+
+DTusername=igogineni
+DTpassword=Isgo1511
+
+# All Connect Application URL
+
+URL= https://concert.training.allconnect.com/salescenter/salescenter/login_process
+
+##################################### Score Urls #################################################################
+
+Score_Qap002 = https://score-qap002.east.aws.allconnect.com/score/login.html
+
+Score_Qap003 = https://score-qap003.east.aws.allconnect.com/score/login.html
+
+Score_Qap004 = https://score-qap004.east.aws.allconnect.com/score/login.html
+
+Score_stage  = https://concert.stage.allconnect.com/salescenter/salescenter/login_process
+
+
+username=training50
+password=TPassword1234
+
+
+HNIntegratedusername=training50
+HNIntegratedpassword=TPassword1234
+
+
+
+#username=pseerapu
+#password=Password1234
+
+#username=sbusireddy
+#password=Sabu0119
+
+#username=nkasula
+#password=Ganesh123
+
+pseerapuGreetingspageFirstname=Prasad.
+sbusireddyGreetingspageFirstname=
+nkasulaGreetingspageFirstname=Narender.
+###########################################################################################################
+
+# Node URL
+nodeurl = http://192.168.252.228:4444/wd/hub
+
+###############################################################################
+
+#Browser type configuration
+browserType=firefox
+browser=firefox
+
+########### Reading Excel path ####################
+DataPoints = /DataPool/CONCERTSANITY.xlsx
+ChromeDataPoints = /DataPool/CHROMECONCERTSANITY.xlsx
+RegressionDataPoints = /DataPool/CONCERTREGRESSION.xlsx
+ChromeRegressionDataPoints = /DataPool/CHROMECONCERTREGRESSION.xlsx
+loadaddress = /DataPool/address.xlsx
+
+#HTML reports configuration data
+
+screenShotPath=Results/
+
+
+dwmedbUrl=jdbc:oracle:thin:@orsymnpd000-vpc-4e87272f.cj13vdlmpnba.us-east-1.rds.amazonaws.com:1521:SYMNPD00
+dwmedbUser=
+dwmedbPwd=
+
+
+
+#dwmedbUrl = jdbc:oracle:thin:@orsymnpd000-vpc-4e87272f.cj13vdlmpnba.us-east-1.rds.amazonaws.com:1521:SYMNPD00
+#dwmedbUser = symqap001_dwuser
+#dwmedbPwd  = symqap001_dwuser
+
+#viperdburl = jdbc:postgresql://pgdgtnpd000-002.cob1eucnca70.us-east-1.rds.amazonaws.com:5432/pgvprnpdqap004
+viperdburl = jdbc:postgresql://pgtrn001.east.aws.allconnect.com:5432/pgvprtrn001
+ 
+#pgtrn001.east.aws.allconnect.com
+ 
+
+viperdbUser = viper_tx
+viperdbPwd  = 1allconnect1
+

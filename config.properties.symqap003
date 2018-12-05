@@ -1,0 +1,144 @@
+# Send Email Properties
+smtp=smtp.office365.com
+port=587
+useremail=gpadidala@charterglobal.com
+userpassword=Charter123
+from=gpadidala@charterglobal.com
+to=gpadidala@charterglobal.com,sbusireddy@charterglobal.com
+cc=sbusireddy@charterglobal.com
+
+# running scripts locally or using remote webdriver. 
+runScripts=remote
+#local,remote
+
+# running scripts in small screen or bigger screen.
+screenResolution= smallscreen
+#smallscreen,bigscreen
+
+#################################### Environment Setup #############################################
+# Test Environment
+Test_Environment = Symqap003
+
+#qap DT Post url
+
+#OLDdturl=https://dtr-dev003.east.aws.allconnect.com/dataexchange/dataexchange.jsp
+
+dturl= http://dtrgateway.dtrqap001.allconnect.com/dataexchange/dataexchange.jsp
+
+DTusername=igogineni
+DTpassword=Isgo1511
+
+# All Connect Application URL
+
+URL= https://concert-qap003.east.aws.allconnect.com/salescenter/login.html
+
+#URL= https://concert-dev003.east.aws.allconnect.com/salescenter/salescenter/login.html
+
+
+##################################### Score Urls #################################################################
+
+
+Score_Qap002 = https://score-qap002.east.aws.allconnect.com/score/login.html
+Score_Qap003 = https://score-qap003.east.aws.allconnect.com/score/login.html
+Score_Qap004 = https://score-qap004.east.aws.allconnect.com/score/login.html
+Score_stage  = https://concert.stage.allconnect.com/salescenter/salescenter/login_process
+
+
+######################################  Encore Url ###############################################################
+
+Encore_Qap002 =  https://care-qap002.east.aws.allconnect.com/fulfillment/login.html
+Encore_Qap003 =  https://care-qap003.east.aws.allconnect.com/fulfillment/login.html
+Encore_Qap004 =  https://care-qap004.east.aws.allconnect.com/fulfillment/login.html
+Encore_stage  =  https://care.stage.allconnect.com/fulfillment/login.html
+
+
+######################################  Vat Url ###################################################################
+
+Vat_Qap002 =  https://vat-qap002.east.aws.allconnect.com/vat/login.html
+Vat_Qap003 =  https://vat-qap003.east.aws.allconnect.com/vat/login.html
+Vat_Qap004 =  https://vat-qap004.east.aws.allconnect.com/vat/login.html
+Vat_stage  =  https://vat.stage.allconnect.com/vat/login.html
+
+#username=pgundeti
+#password=Password1234
+
+#username=pseerapu
+#password=Password1234
+
+username=rpedaprolu
+password=Qapass1234
+
+#username=sbusireddy
+#password=Sabu0119
+
+#username=nkasula
+#password=Ganesh123
+
+Encoreusername=sbusireddy
+Encorepassword=Password1234
+
+
+rcusername=sbusireddy
+rcpassword=Password1234
+
+
+pseerapuGreetingspageFirstname=Prasad.
+sbusireddyGreetingspageFirstname=
+nkasulaGreetingspageFirstname=Narender.
+###########################################################################################################
+
+#################################  ATTV6 User name and Password  #####################################################
+ATTV6username=ddarbha
+ATTV6password=Qapass1234
+
+#ATTV6username=igogineni
+#ATTV6password=Isgo1703
+
+
+###########################################################################################################
+
+
+# Node URL
+nodeurl = http://192.168.252.228:4444/wd/hub
+
+###############################################################################
+
+#Browser type configuration
+browserType=firefox
+browser=firefox
+
+########### Reading Excel path ####################
+DataPoints = /DataPool/CONCERTSANITY.xlsx
+ChromeDataPoints = /DataPool/CHROMECONCERTSANITY.xlsx
+RegressionDataPoints = /DataPool/CONCERTREGRESSION.xlsx
+ChromeRegressionDataPoints = /DataPool/CHROMECONCERTREGRESSION.xlsx
+loadaddress = /DataPool/address.xlsx
+
+
+#HTML reports configuration data
+
+screenShotPath=Results/
+
+dwmedbUrl=jdbc:oracle:thin:@orsymnpd000-vpc-4e87272f.cj13vdlmpnba.us-east-1.rds.amazonaws.com:1521:SYMNPD00
+dwmedbUser=symqap002_dwuser
+dwmedbPwd=symqap002_dwuser
+
+#dwmedbUrl = jdbc:oracle:thin:@orsymnpd000-vpc-4e87272f.cj13vdlmpnba.us-east-1.rds.amazonaws.com:1521:SYMNPD00
+#dwmedbUser = symqap001_dwuser
+#dwmedbPwd  = symqap001_dwuser
+
+viperdburl = jdbc:postgresql://pgnpd000.east.aws.allconnect.com:5432/pgvprnpdqap003
+viperdbUser = viper_tx
+viperdbPwd  = 1allconnect1
+
+Sqlburl  = jdbc:mysql://msnpd000.east.aws.allconnect.com:3306/qap003_salescenter?useSSL=false
+#Sqlburl  = jdbc:mysql://msnpd000.east.aws.allconnect.com:3306/qap003_salescenter
+SqlUser = qap002_sctr
+SqlPwd  = 1allconnect1
+
+# Active MQ Json String 
+CTIUrl=http://admin:admin@sym1.symqap003.allconnect.com:8161/admin/send.jsp?JMSDestination=cti.in.q&JMSDestinationType=queue
+CTIBody={"agentPhoneId":"62288","calledAddress":"66487","callingAddress":"19849369053","userEnteredCode":"","ucid":"00001056401351610561","eventType":"callAlert"}
+
+
+

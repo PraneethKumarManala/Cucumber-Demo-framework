@@ -1,0 +1,418 @@
+2018-11-29 17:42:16,415 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 17:42:16,487 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 17:42:24,123 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 17:42:24,143 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 17:42:24,242 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-29 17:42:25,304 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-29 17:42:34,631 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-29 17:42:34,646 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-29 17:42:36,506 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-29 17:49:22,383 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 17:49:22,442 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 17:49:29,151 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 17:49:29,175 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 18:01:40,509 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 18:01:40,571 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 18:01:48,842 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 18:01:48,861 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 18:07:11,246 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 18:07:11,523 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 18:07:21,668 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 18:07:21,685 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 18:07:22,058 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-29 18:07:23,129 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-29 18:07:33,970 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-29 18:07:33,990 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-29 18:07:35,982 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-29 18:36:41,923 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 18:36:42,012 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 18:36:50,317 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 18:36:50,335 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 18:36:50,427 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-29 18:36:51,484 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-29 18:37:04,006 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-29 18:37:04,019 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-29 18:37:04,189 [main] INFO com.cucumber.definedMethods.CRMApplication - Swithed to MainPanel Frame
+2018-11-29 18:37:06,704 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on New Deal Link in MainPanel Frame
+2018-11-29 18:37:08,872 [main] INFO com.cucumber.definedMethods.CRMApplication - Entered the Deal Data 1
+2018-11-29 18:37:11,065 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on Save button
+2018-11-29 18:37:14,750 [main] INFO com.cucumber.definedMethods.CRMApplication - Entered the Deal Data 2
+2018-11-29 18:37:16,981 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on Save button
+2018-11-29 18:37:20,645 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-29 19:00:36,743 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 19:00:36,768 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 19:00:43,600 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 19:00:43,613 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 19:00:43,704 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-29 19:00:44,767 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-29 19:23:14,186 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 19:23:14,931 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 19:23:36,915 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 19:23:36,932 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 19:23:38,737 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-29 19:23:39,930 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-29 19:23:49,866 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-29 19:23:49,884 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-29 19:23:53,031 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-29 19:24:02,861 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-29 19:24:02,985 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-29 19:24:13,777 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-29 19:24:13,790 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-29 19:24:13,873 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-29 19:24:14,939 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-29 19:24:23,605 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-29 19:24:23,619 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-29 19:24:23,814 [main] INFO com.cucumber.definedMethods.CRMApplication - Swithed to MainPanel Frame
+2018-11-29 19:24:26,546 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on New Deal Link in MainPanel Frame
+2018-11-29 19:24:32,753 [main] INFO com.cucumber.definedMethods.CRMApplication - Entered the Deal Data 1
+2018-11-29 19:24:35,272 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on Save button
+2018-11-29 19:24:43,516 [main] INFO com.cucumber.definedMethods.CRMApplication - Entered the Deal Data 2
+2018-11-29 19:24:46,833 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on Save button
+2018-11-29 19:24:50,887 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 13:08:17,080 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 13:08:17,728 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 13:08:40,057 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 13:08:40,109 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 13:08:40,555 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-30 13:08:41,716 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-30 13:08:53,470 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-30 13:08:53,485 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-30 13:08:57,607 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 14:55:05,834 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 14:55:06,603 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 14:55:20,723 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 14:55:20,765 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 14:55:25,419 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 15:02:38,487 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 15:02:38,510 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 15:02:51,882 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 15:02:51,964 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 15:03:00,957 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 15:04:15,178 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 15:04:15,214 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 15:04:21,581 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 15:04:21,618 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 15:04:23,625 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 15:36:39,059 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 15:36:39,550 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 15:37:01,465 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 15:37:01,525 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 15:37:03,226 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-30 15:37:04,568 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-30 15:37:16,557 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-30 15:37:16,575 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-30 15:37:22,394 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 15:46:02,741 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 15:46:02,823 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 15:46:14,264 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 15:46:15,565 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 15:46:22,063 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-30 15:46:23,176 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-30 15:46:31,372 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-30 15:46:31,412 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-30 15:46:38,782 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-11-30 15:54:52,416 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-11-30 15:54:52,446 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-11-30 15:54:59,833 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-11-30 15:54:59,890 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-11-30 15:55:00,418 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-11-30 15:55:01,496 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-11-30 15:55:08,058 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-11-30 15:55:08,076 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-11-30 15:55:10,189 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 12:25:45,241 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 12:25:45,610 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 12:26:08,494 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 12:26:08,538 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 12:26:09,256 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 12:26:10,366 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 12:26:20,186 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 12:26:20,200 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 12:26:23,145 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 12:46:43,706 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 12:46:43,792 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 12:46:54,090 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 12:46:54,126 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 12:46:54,562 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 12:46:55,636 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 12:47:05,079 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 12:47:05,109 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 12:47:07,139 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 12:52:36,698 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 12:52:36,725 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 12:52:46,508 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 12:52:46,550 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 12:52:46,966 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 12:52:48,032 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 12:52:56,823 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 12:52:56,843 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 12:52:58,997 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 12:59:32,392 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 12:59:32,491 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 12:59:40,035 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 12:59:40,077 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 12:59:40,474 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 12:59:41,547 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 12:59:49,603 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 12:59:49,631 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 12:59:51,774 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 13:05:28,560 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 13:05:28,600 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 13:05:36,489 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 13:05:36,539 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 13:05:36,947 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 13:05:38,018 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 13:05:46,956 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 13:05:46,978 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 13:05:49,054 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 13:09:15,567 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 13:09:15,621 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 13:09:22,209 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 13:09:22,241 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 13:09:22,654 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 13:09:23,722 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 13:09:31,793 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 13:09:31,816 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 13:09:33,914 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 13:13:29,361 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 13:13:29,419 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 13:13:35,961 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 13:13:35,993 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 13:13:36,423 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 13:13:37,509 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 13:13:45,317 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 13:13:45,347 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 13:13:49,276 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 13:16:01,162 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 13:16:01,189 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 13:16:12,440 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 13:16:12,477 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 13:16:14,609 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 13:17:48,852 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 13:17:48,875 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 13:17:55,774 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 13:17:55,814 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 13:17:58,074 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 13:20:15,529 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 13:20:15,585 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 13:20:21,529 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 13:20:21,565 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 13:20:23,577 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 14:24:39,609 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 14:24:39,950 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 14:25:08,660 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 14:25:09,381 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 14:25:19,275 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 14:27:08,003 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 14:27:08,045 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 14:27:15,048 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 14:27:15,083 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 14:27:22,042 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 14:28:42,357 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 14:28:42,408 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 14:28:50,540 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 14:28:50,577 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 14:28:55,202 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 14:40:27,815 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 14:40:28,286 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 14:40:38,442 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 14:40:38,923 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 14:41:01,591 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 15:04:24,476 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 15:04:24,676 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 15:04:48,875 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 15:04:48,896 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 15:04:57,376 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 15:09:34,948 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 15:09:34,969 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 15:09:44,264 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 15:09:44,303 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 15:09:54,666 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 15:15:07,448 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 15:15:07,469 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 15:15:15,061 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 15:15:15,097 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 15:15:15,856 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 15:15:16,991 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 15:15:27,226 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 15:15:27,249 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 15:15:30,169 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 15:19:15,610 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 15:19:15,641 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 15:19:25,512 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 15:19:25,529 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 15:19:25,889 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 15:19:26,969 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 15:19:34,701 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 15:19:34,712 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 15:19:48,128 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 15:19:48,166 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 15:19:54,904 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 15:19:54,917 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 15:19:55,272 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneeth
+2018-12-03 15:19:56,327 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneeth
+2018-12-03 15:20:02,264 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 15:20:02,280 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 15:55:58,710 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 15:55:59,321 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 15:56:20,274 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 15:56:20,369 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 15:56:23,101 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 15:56:24,312 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 15:56:32,609 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 15:56:32,619 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 16:09:14,018 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 16:09:15,199 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 16:09:28,361 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 16:09:28,453 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 16:09:31,070 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 16:09:32,289 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 16:09:43,998 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 16:09:44,041 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 16:09:47,358 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 16:09:50,060 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 16:09:51,171 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 16:09:55,683 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 16:09:55,706 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 16:09:56,584 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 16:09:57,822 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 16:10:06,160 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 16:10:06,178 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 16:10:09,780 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 16:10:12,286 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 16:10:13,423 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 16:10:20,274 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 16:10:20,290 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 16:10:21,052 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneeth
+2018-12-03 16:10:22,299 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneeth
+2018-12-03 16:10:29,873 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 16:10:29,889 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 16:10:31,621 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 16:10:34,424 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 16:10:35,550 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 16:10:40,784 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 16:10:40,803 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 16:10:41,550 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 16:10:42,808 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 16:10:51,253 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 16:10:51,275 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 16:10:52,811 [main] INFO com.cucumber.definedMethods.CRMApplication - Swithed to MainPanel Frame
+2018-12-03 16:10:59,617 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on New Deal Link in MainPanel Frame
+2018-12-03 16:11:06,487 [main] INFO com.cucumber.definedMethods.CRMApplication - Entered the Deal Data 1
+2018-12-03 16:11:09,149 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on Save button
+2018-12-03 16:11:17,391 [main] INFO com.cucumber.definedMethods.CRMApplication - Entered the Deal Data 2
+2018-12-03 16:11:19,990 [main] INFO com.cucumber.definedMethods.CRMApplication - Clicked on Save button
+2018-12-03 16:11:24,292 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 17:08:56,138 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 17:08:57,417 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 17:09:11,935 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 17:09:13,379 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 17:09:17,722 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 17:09:19,403 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 17:09:30,638 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 17:09:30,716 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 17:09:32,977 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 17:09:36,242 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 17:09:37,482 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 17:09:41,419 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 17:09:41,436 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 17:09:42,186 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 17:09:43,477 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 17:09:56,825 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 17:09:56,849 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 17:10:01,041 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 17:10:06,248 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 17:10:07,403 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 17:10:11,178 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 17:10:11,215 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 17:10:11,995 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneeth
+2018-12-03 17:10:13,130 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneeth
+2018-12-03 17:10:19,166 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 17:10:19,189 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 17:10:21,459 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:17:14,459 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:17:21,387 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:17:37,731 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:17:37,791 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:17:40,979 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 18:17:42,242 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 18:17:52,079 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:17:52,109 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:18:02,286 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:18:08,319 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:18:09,514 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:18:13,777 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:18:13,876 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:18:15,345 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 18:18:16,814 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 18:18:30,992 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:18:31,013 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:18:32,722 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:18:35,829 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:18:36,951 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:18:42,862 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:18:42,893 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:18:43,594 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneeth
+2018-12-03 18:18:44,751 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneeth
+2018-12-03 18:18:51,451 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:18:51,483 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:18:53,098 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:20:04,062 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:20:05,424 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:20:08,974 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:20:20,054 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:22:06,325 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:22:07,593 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:22:12,037 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:22:12,187 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:22:14,138 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 18:22:15,396 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 18:22:24,307 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:22:24,385 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:22:27,715 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:26:58,481 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:26:59,707 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:27:03,801 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:27:06,658 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:38:39,719 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is launched
+2018-12-03 18:38:40,965 [main] INFO com.cucumber.accelerators.Base - Chrome Browser is maximised
+2018-12-03 18:38:46,192 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:38:46,234 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:38:47,640 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 18:38:48,911 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 18:38:56,675 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:38:56,713 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:38:59,718 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:41:12,391 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 18:41:12,635 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 18:41:21,918 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:41:21,957 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:41:26,128 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 18:41:27,204 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 18:41:35,052 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:41:35,079 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:41:38,211 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 18:52:27,437 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 18:52:27,569 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 18:52:38,083 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 18:52:38,154 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 18:52:38,803 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 18:52:39,886 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 18:52:48,316 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 18:52:48,334 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 18:52:50,982 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-03 19:22:14,699 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 19:22:15,002 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 19:22:29,687 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 19:22:30,857 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 19:22:35,503 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 19:22:36,659 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 19:27:03,573 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-03 19:27:03,896 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-03 19:27:13,418 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-03 19:27:13,484 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-03 19:27:14,259 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-03 19:27:15,333 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-03 19:27:25,127 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-03 19:27:25,140 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-03 19:27:29,466 [main] INFO com.cucumber.accelerators.Base - Browser is Closed

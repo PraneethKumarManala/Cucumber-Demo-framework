@@ -1,0 +1,74 @@
+[
+  {
+    "source": "^User enters Username and Password and Click on Login buttonS$",
+    "steps": [
+      {
+        "name": "User enters Username and Password and Click on Login buttonS",
+        "aggregatedDurations": {
+          "average": 11.157601855,
+          "median": 11.157601855
+        },
+        "durations": [
+          {
+            "duration": 11.157601855,
+            "location": "src/test/java/com/cucumber/features/CRMLoginScreenShot.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Home PageS$",
+    "steps": [
+      {
+        "name": "Verify Home PageS",
+        "aggregatedDurations": {
+          "average": 0.373174072,
+          "median": 0.373174072
+        },
+        "durations": [
+          {
+            "duration": 0.373174072,
+            "location": "src/test/java/com/cucumber/features/CRMLoginScreenShot.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Verify Title of Login PageS$",
+    "steps": [
+      {
+        "name": "Verify Title of Login PageS",
+        "aggregatedDurations": {
+          "average": 0.493601611,
+          "median": 0.493601611
+        },
+        "durations": [
+          {
+            "duration": 0.493601611,
+            "location": "src/test/java/com/cucumber/features/CRMLoginScreenShot.feature:4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^Open the Browser and Enter URLS$",
+    "steps": [
+      {
+        "name": "Open the Browser and Enter URLS",
+        "aggregatedDurations": {
+          "average": 31.040347463,
+          "median": 31.040347463
+        },
+        "durations": [
+          {
+            "duration": 31.040347463,
+            "location": "src/test/java/com/cucumber/features/CRMLoginScreenShot.feature:3"
+          }
+        ]
+      }
+    ]
+  }
+]
