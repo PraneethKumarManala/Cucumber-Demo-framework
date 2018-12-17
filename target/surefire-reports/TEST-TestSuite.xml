@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="119.453" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="49.886" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_131\jre\bin"/>
@@ -26,7 +26,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="C:\Users\pmanala\workspace_New\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4574053182470946333.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\pmanala\workspace_New\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf7866789648643368634.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_181/bin/server;C:/Program Files/Java/jre1.8.0_181/bin;C:/Program Files/Java/jre1.8.0_181/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\System32\wbem;E:\apache-maven-3.3.9\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\Users\pmanala\AppData\Local\Android\Sdk\platform-tools;C:\Users\pmanala\AppData\Local\Android\Sdk\tools;C:\Users\pmanala\AppData\Local\Android\Sdk\tools\bin;C:\Users\pmanala\AppData\Local\Android\Sdk;C:\Program Files\Git\cmd;C:\Windows\System32;C:\Program Files\Microsoft VS Code\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\pmanala\AppData\Roaming\npm;E:\eclipse-jee-oxygen-3a-win32-x86_64\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -60,83 +60,59 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="feature" classname="com.cucumber.testRunner.CRMLogin_BackgroundKeywordRunner" time="112.71">
-    <failure message="org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;PMANALA&apos;, ip: &apos;192.168.2.151&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;&#10;Driver info: driver.version: RemoteWebDriver" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: 
-org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+  <testcase name="feature" classname="com.cucumber.testRunner.XfinityBundlesRunner" time="46.76">
+    <failure message="org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection&#10;Build info: version: &apos;3.14.0&apos;, revision: &apos;aacccce0&apos;, time: &apos;2018-08-02T20:19:58.91Z&apos;&#10;System info: host: &apos;PMANALA&apos;, ip: &apos;192.168.2.128&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_131&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 4192, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 0b406593-106e-4773-94ca-0865439f4577" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: 
+org.openqa.selenium.NoSuchSessionException: Tried to run command without establishing a connection
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'PMANALA', ip: '192.168.2.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
-Driver info: driver.version: RemoteWebDriver
+System info: host: 'PMANALA', ip: '192.168.2.128', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 4192, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0b406593-106e-4773-94ca-0865439f4577
 Caused by: org.openqa.selenium.NoSuchSessionException: 
-Session ID is null. Using WebDriver after calling quit()?
+Tried to run command without establishing a connection
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'PMANALA', ip: '192.168.2.151', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
-Driver info: driver.version: RemoteWebDriver
+System info: host: 'PMANALA', ip: '192.168.2.128', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 4192, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0b406593-106e-4773-94ca-0865439f4577
 </failure>
-    <system-out><![CDATA[ INFO [main] (Base.java:54)- Chrome Browser is launched
- INFO [main] (Base.java:56)- Chrome Browser is maximised
- INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.freecrm.com/index.html
- INFO [main] (CRMApplication.java:31)- Login Page Title is Captured
-The Actual title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
-The Expected title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
-Expected and Actual Titles are Matched
-Screenshot taken
- INFO [main] (CRMApplication.java:42)- The entered UserName is : praneethmanala
- INFO [main] (CRMApplication.java:45)- The entered Password is : praneethmanala
- INFO [main] (CRMApplication.java:62)- Submit Button is Clicked
- INFO [main] (CRMApplication.java:68)- Home Page Title is Captured
-The Actual Home Page title is:CRMPRO
-The Expected Home Page title is:CRMPRO
-The Expected and Actual Home Page Titles are matched 
-Screenshot taken
- INFO [main] (Base.java:74)- Browser is Closed
- INFO [main] (Base.java:54)- Chrome Browser is launched
- INFO [main] (Base.java:56)- Chrome Browser is maximised
- INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.freecrm.com/index.html
- INFO [main] (CRMApplication.java:31)- Login Page Title is Captured
-The Actual title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
-The Expected title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
-Expected and Actual Titles are Matched
-Screenshot taken
- INFO [main] (CRMApplication.java:51)- The entered UserName is : praneethmanala
- INFO [main] (CRMApplication.java:54)- The entered Password is : praneethmanala
- INFO [main] (CRMApplication.java:62)- Submit Button is Clicked
- INFO [main] (CRMApplication.java:68)- Home Page Title is Captured
-The Actual Home Page title is:CRMPRO
-The Expected Home Page title is:CRMPRO
-The Expected and Actual Home Page Titles are matched 
-Screenshot taken
- INFO [main] (Base.java:74)- Browser is Closed
- INFO [main] (Base.java:54)- Chrome Browser is launched
- INFO [main] (Base.java:56)- Chrome Browser is maximised
- INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.freecrm.com/index.html
- INFO [main] (CRMApplication.java:31)- Login Page Title is Captured
-The Actual title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
-The Expected title of the FreeCRM is: #1 Free CRM software in the cloud for sales and service
-Expected and Actual Titles are Matched
-Screenshot taken
- INFO [main] (CRMApplication.java:51)- The entered UserName is : praneeth
- INFO [main] (CRMApplication.java:54)- The entered Password is : praneeth
- INFO [main] (CRMApplication.java:62)- Submit Button is Clicked
- INFO [main] (CRMApplication.java:68)- Home Page Title is Captured
-The Actual Home Page title is:CRMPRO
-The Expected Home Page title is:CRMPRO
-The Expected and Actual Home Page Titles are matched 
-Screenshot taken
+    <system-out><![CDATA[ INFO [main] (Base.java:62)- Firefox Browser is launched
+ INFO [main] (Base.java:64)- Firefox Browser is maximised
+ INFO [main] (CRMApplication.java:23)- Ented URL is : https://www.connecttoxfinity.com/
+The Expected title is :Cable, Internet and Phone Bundles | ConnectToXfinity
+The Actual title is :Cable, Internet and Phone Bundles | ConnectToXfinity
+Expected title and Actual Titles are matched
  INFO [main] (Base.java:74)- Browser is Closed
 ]]></system-out>
-    <system-err><![CDATA[Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 38846
-Only local connections are allowed.
-Dec 03, 2018 6:17:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-[1543841237.379][WARNING]: Timed out connecting to Chrome, retrying...
-Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 43829
-Only local connections are allowed.
-Dec 03, 2018 6:18:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
-Starting ChromeDriver 2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90) on port 20872
-Only local connections are allowed.
-Dec 03, 2018 6:18:35 PM org.openqa.selenium.remote.ProtocolHandshake createSession
-INFO: Detected dialect: OSS
+    <system-err><![CDATA[1545032493028	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\pmanala\\AppData\\Local\\Temp\\rust_mozprofile.bm3HQVrg8Yqm"
+1545032496867	Marionette	INFO	Listening on port 64849
+1545032496982	Marionette	WARN	TLS certificate errors will be ignored for this session
+Dec 17, 2018 1:11:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PZ27CGG&l=gtmDataLayer&t=gtm2&cid=814845410.1545032501, line 94: unreachable code after return statement
+JavaScript warning: https://www.connecttoxfinity.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.connecttoxfinity.com/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js?v=1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.google-analytics.com/gtm/js?id=GTM-PZ27CGG&l=gtmDataLayer&t=gtm2&cid=814845410.1545032501, line 94: unreachable code after return statement
+1545032532976	Marionette	INFO	Stopped listening on port 64849
+JavaScript error: https://cdn.cohesionapps.com/cohesion/cohesion-latest.min.js, line 1: NetworkError: A network error occurred.
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x4E0005,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
 ]]></system-err>
   </testcase>
 </testsuite>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="3" verbose="0" name="Failed suite [Surefire suite]" parallel="classes">
-  <test thread-count="3" verbose="0" name="Surefire test(failed)" parallel="classes">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
     <classes>
-      <class name="com.cucumber.testRunner.CRMLoginRunner">
+      <class name="com.toolsQA.testRunner.TestRunner">
         <methods>
           <include name="setUpClass"/>
-          <include name="feature" invocation-numbers="0"/>
+          <include name="feature"/>
           <include name="tearDownClass"/>
         </methods>
-      </class> <!-- com.cucumber.testRunner.CRMLoginRunner -->
+      </class> <!-- com.toolsQA.testRunner.TestRunner -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->

@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+	<test name="Test" parallel="false" thread-count="1">
+		<classes>
+			<class name="com.cucumber.testRunner.XfinityBundlesRunner"></class>
+			<!-- <class name="com.cucumber.testRunner.XfinityInternetRunner"></class>
+			<class name="com.cucumber.testRunner.XfinityTVRunner"></class>
+			<class name="com.cucumber.testRunner.XfinityVoiceRunner"></class> -->
+		</classes>
+	</test>
+	</suite>

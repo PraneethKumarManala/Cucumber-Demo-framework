@@ -3,14 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.cucumber.testRunner.CRMLoginScreenShotRunner">
+      <class name="com.cucumber.testRunner.Xfinity_All_Runner">
         <methods>
-          <include name="reportSetUp"/>
           <include name="setUpClass"/>
-          <include name="feature" invocation-numbers="0"/>
+          <include name="feature" invocation-numbers="0 1 2 3"/>
           <include name="tearDownClass"/>
         </methods>
-      </class> <!-- com.cucumber.testRunner.CRMLoginScreenShotRunner -->
+      </class> <!-- com.cucumber.testRunner.Xfinity_All_Runner -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,8 +1,0 @@
-Feature: CRM Application Login functionality
-
-  Scenario: Verify Login Functionality with Correct UserName and Password # /Users/pmanala/workspace_New/automation-cucumber-demo/src/test/java/com/cucumber/features/CRMLogin.feature:2
-    Given Open the Browser and Enter URL
-    Then Verify Title of Login Page
-    When User enters Username and Password and Click on Login button
-    Then Verify Home Page
-    Then Close the Browser

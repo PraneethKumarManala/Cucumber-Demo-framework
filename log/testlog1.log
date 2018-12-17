@@ -416,3 +416,196 @@
 2018-12-03 19:27:25,127 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
 2018-12-03 19:27:25,140 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
 2018-12-03 19:27:29,466 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-05 17:57:41,030 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-05 17:57:41,720 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-05 17:58:03,968 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-05 17:58:04,098 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-05 17:58:10,769 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-05 17:58:11,899 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-05 17:58:21,818 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-05 17:58:21,837 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-05 17:58:24,758 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-05 17:58:31,216 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-05 17:58:31,246 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-05 17:58:37,832 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-05 17:58:37,844 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-05 17:58:38,154 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-05 17:58:39,221 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-05 17:58:45,715 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-05 17:58:45,745 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-05 17:58:47,915 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-05 17:58:53,910 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-05 17:58:53,970 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-05 17:59:00,467 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-05 17:59:00,481 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-05 17:59:00,775 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneeth
+2018-12-05 17:59:01,834 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneeth
+2018-12-05 17:59:07,599 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-05 17:59:07,613 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-05 17:59:10,516 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-06 11:08:35,706 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-06 11:08:36,176 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-06 11:08:43,581 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-06 11:08:43,681 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-06 11:08:51,589 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-06 11:08:52,689 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-06 11:09:03,953 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-06 11:09:03,968 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-06 11:09:06,698 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-06 11:09:13,434 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-06 11:09:13,464 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-06 11:09:19,439 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-06 11:09:19,466 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-06 11:09:19,764 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneethmanala
+2018-12-06 11:09:20,827 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneethmanala
+2018-12-06 11:09:26,753 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-06 11:09:26,783 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-06 11:09:29,771 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-06 11:09:36,458 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-06 11:09:36,518 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-06 11:09:42,822 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.freecrm.com/index.html
+2018-12-06 11:09:42,832 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-06 11:09:43,119 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered UserName is : praneeth
+2018-12-06 11:09:44,166 [main] INFO com.cucumber.definedMethods.CRMApplication - The entered Password is : praneeth
+2018-12-06 11:09:49,767 [main] INFO com.cucumber.definedMethods.CRMApplication - Submit Button is Clicked
+2018-12-06 11:09:49,786 [main] INFO com.cucumber.definedMethods.CRMApplication - Home Page Title is Captured
+2018-12-06 11:09:52,699 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:11:06,814 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:11:07,488 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:11:23,852 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:11:36,781 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:17:49,916 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:17:50,019 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:18:14,226 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:18:24,588 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:19:14,926 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:19:14,992 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:19:24,038 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:19:37,169 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:26:29,197 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:26:29,248 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:26:42,646 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:26:54,635 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:27:45,210 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:27:45,301 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:27:56,237 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:28:05,958 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:35:29,353 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:35:29,384 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:35:42,950 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:35:55,364 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:38:24,334 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:38:24,355 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:38:35,569 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:38:47,231 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:38:54,522 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:38:54,615 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:39:03,845 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:40:48,465 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:40:48,636 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:40:58,973 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:41:10,187 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:41:17,766 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:41:17,947 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:41:53,887 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:42:01,087 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:42:07,585 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:42:07,716 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:42:17,568 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:42:28,168 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:42:35,051 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:42:35,242 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:42:47,979 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:42:56,494 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:47:22,829 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:47:22,870 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:47:36,179 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:47:49,089 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:47:55,972 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:47:55,983 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:48:09,762 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:48:19,431 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:48:26,121 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:48:26,291 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:48:36,393 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:48:47,062 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:48:53,382 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:48:53,493 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:49:02,470 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:49:11,971 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:55:26,589 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:55:26,661 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:55:36,021 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:56:07,678 [TestNG-test=Test-1] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:56:07,739 [TestNG-test=Test-1] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:56:22,142 [TestNG-test=Test-1] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:56:23,133 [TestNG-test=Test-2] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:56:23,313 [TestNG-test=Test-2] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:56:35,429 [TestNG-test=Test-2] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:56:53,490 [TestNG-test=Test-1] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 15:58:58,284 [TestNG-test=Test-2] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:58:59,193 [TestNG-test=Test-1] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 15:58:59,213 [TestNG-test=Test-2] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:58:59,363 [TestNG-test=Test-1] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 15:59:15,916 [TestNG-test=Test-2] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:59:24,409 [TestNG-test=Test-1] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 15:59:37,506 [TestNG-test=Test-1] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:03:11,041 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:03:11,212 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:03:20,614 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:03:36,983 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:03:50,298 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:03:50,439 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:03:59,768 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:04:11,335 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:04:23,974 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:04:24,021 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:04:33,105 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:04:41,406 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:07:37,027 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:07:37,231 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:08:18,829 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:08:30,324 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:08:38,863 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:08:38,884 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:09:23,546 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:09:38,056 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:09:45,366 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:09:45,437 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:10:05,920 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:10:16,238 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 16:10:22,740 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 16:10:22,801 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 16:10:36,071 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 16:10:49,320 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 17:32:21,200 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 17:32:21,323 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 17:32:29,495 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 17:32:40,894 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 17:32:47,249 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 17:32:47,285 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 17:32:55,098 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 17:33:06,685 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 17:33:13,008 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 17:33:13,045 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 17:33:21,545 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 17:33:30,183 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-14 17:33:36,397 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-14 17:33:36,499 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-14 17:33:44,427 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-14 17:33:55,416 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-17 13:08:52,975 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-17 13:08:53,521 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-17 13:09:04,307 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-17 13:09:04,357 [main] INFO com.cucumber.definedMethods.CRMApplication - Login Page Title is Captured
+2018-12-17 13:09:09,134 [main] INFO com.cucumber.accelerators.Base - Browser is Closed
+2018-12-17 13:09:17,190 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-17 13:09:17,210 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-17 13:09:31,284 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-17 13:09:39,584 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-17 13:09:39,694 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-17 13:09:41,352 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-17 13:11:37,217 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is launched
+2018-12-17 13:11:37,280 [main] INFO com.cucumber.accelerators.Base - Firefox Browser is maximised
+2018-12-17 13:12:04,467 [main] INFO com.cucumber.definedMethods.CRMApplication - Ented URL is : https://www.connecttoxfinity.com/
+2018-12-17 13:12:16,685 [main] INFO com.cucumber.accelerators.Base - Browser is Closed

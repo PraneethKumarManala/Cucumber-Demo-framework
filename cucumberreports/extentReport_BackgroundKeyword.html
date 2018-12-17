@@ -4,7 +4,7 @@
 
 
 <head>
-	<meta charset='UTF-8' /> 
+	<meta charset='utf-8' /> 
 	<meta name='description' content='' />
 	<meta name='robots' content='noodp, noydir' />
 	<meta name='viewport' content='width=device-width, initial-scale=1' />
@@ -15,14 +15,9 @@
 
 		<link href='https://cdn.rawgit.com/anshooarora/extentreports-java/b4a58fcfd1e137bd9287244035a7c80d3d73b3af/dist/css/extent.css' type='text/css' rel='stylesheet' />
 	
-	<title>Charter Global - Cucumber Framework</title>
+	<title>ExtentReports</title>
 
 	<style type='text/css'>
-			
-      
-        
-      
-    
 	</style>
 </head>
 
@@ -39,11 +34,12 @@
 		<ul id='slide-out' class='side-nav fixed hide-on-med-and-down'>
 			<li class='waves-effect active'><a href='#!' view='test-view' onclick="configureView(0);chartsView('test');"><i class='material-icons'>dashboard</i></a></li>
 							<li class='waves-effect'><a href='#!' view='author-view' onclick="configureView(3)"><i class='material-icons'>person</i></a></li>
+			<li class='waves-effect'><a href='#!' view='exception-view' onclick="configureView(2)"><i class='material-icons'>bug_report</i></a></li>
 			<li class='waves-effect'><a href='#!' onclick="configureView(-1);chartsView('dashboard');" view='dashboard-view'><i class='material-icons'>track_changes</i></i></a></li>
 		</ul>
 
 		<!-- report name -->
-		<span class='report-name'>Charter Global - Cucumber Report</span>
+		<span class='report-name'>ExtentReports</span>
 		
 		<!-- report headline -->
 		<span class='report-headline'></span>
@@ -52,7 +48,7 @@
 		<ul id='nav-mobile' class='right hide-on-med-and-down nav-right'>
 			<li>
                 <a href='#!'>
-                    <span class='label suite-start-time blue darken-3'>Dec 3, 2018 06:17:00 PM</span>
+                    <span class='label suite-start-time blue darken-3'>Dec 17, 2018 01:08:14 PM</span>
 				</a>
 			</li>
 			<li>
@@ -78,6 +74,8 @@
 				</a>
 				<ul id='tests-toggle' class='dropdown-content'>
 											<li status='pass'><a href='#!'>Pass <i class='material-icons green-text'>check_circle</i></a></li>
+						<li status='fail'><a href='#!'>Fail <i class='material-icons red-text'>cancel</i></a></li>
+						<li status='skip'><a href='#!'>Skip <i class='material-icons cyan-text'>redo</i></a></li>
 					<li class='divider'></li>
 					<li status='clear' clear='true'><a href='#!'>Clear Filters <i class='material-icons'>clear</i></a></li>
 				</ul>
@@ -128,10 +126,10 @@
 					<canvas id='parent-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>1</span> feature(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='0%'><span class='strong'>0</span> feature(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> feature(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='100%'>1</span> feature(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
 				</div>
 			</div>
 		</div>
@@ -143,10 +141,10 @@
 					<canvas id='child-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>3</span> scenario(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='0%'><span class='strong'>0</span> scenario(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> scenario(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='100%'>3</span> scenario(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
 				</div>
 			</div>
 		</div>
@@ -158,10 +156,10 @@
 					<canvas id='grandchild-analysis' width='100' height='80'></canvas>
 				</div>
 				<div class='block text-small'>
-					<span class='tooltipped' data-position='top' data-tooltip='100%'><span class='strong'>12</span> step(s) passed</span>
+					<span class='tooltipped' data-position='top' data-tooltip='25%'><span class='strong'>3</span> step(s) passed</span>
 				</div>
 				<div class='block text-small'>
-					<span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='0%'>0</span> others
+					<span class='strong tooltipped' data-position='top' data-tooltip='25%'>3</span> step(s) failed, <span class='strong tooltipped' data-position='top' data-tooltip='50%'>6</span> others
 				</div>
 			</div>
 		</div>
@@ -175,15 +173,15 @@
 			<ul id='test-collection' class='test-collection'>
 				
 				
-				<li class='test displayed active has-leaf pass' status='pass' bdd='true' test-id='1'>
+				<li class='test displayed active has-leaf fail' status='fail' bdd='true' test-id='1'>
 					<div class='test-heading'>
 						<span class='test-name'>CRM Application Login functionality with Background Keyword</span>
-						<span class='test-time'>Dec 3, 2018 06:17:00 PM</span>
-						<span class='test-status right pass'>pass</span>
+						<span class='test-time'>Dec 17, 2018 01:08:15 PM</span>
+						<span class='test-status right fail'>fail</span>
 					</div>
 					<div class='test-content hide'>
-<div class='scenario node' test-id='2' status='pass'>
-	<span class='duration right label'>0h 0m 51s+909ms</span>
+<div class='scenario node' test-id='2' status='fail'>
+	<span class='duration right label'>0h 0m 49s+491ms</span>
 	<div class='desc'>
 		<b>Scenario</b>
 		<span class="desc-text">Verify Login Functionality with Correct UserName and Password</span>
@@ -197,46 +195,46 @@
 				<div class='pre'>passed</div>
 			
 		</li>
-		<li test-id='4' class='node then pass' status='pass'>
+		<li test-id='4' class='node then fail' status='fail'>
 			
 			<b>Then</b>
 			
 			<span class="bdd-step-name">Then Verify Title of Login PageBackground</span>
-			<ul class='screenshots right'>
-				<li><a data-featherlight="image" href="C:\Users\pmanala\workspace_New\automation-cucumber-demo/Results/chrome/chrome_2018-12-03_18_17_00_926/Verify Login Page Title2_2018-12-03_18_17_00_926.png"><i class='material-icons'>panorama</i></a></li>
-			</ul>
-				<div class='pre'>passed</div>
+				<div class='pre'><textarea>junit.framework.ComparisonFailure: expected:<[#1 Free CRM software in the cloud for sales and service]> but was:<[Cable TV, Internet and Phone Plans | ConnectToXfinity]>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at com.cucumber.definedMethods.CRMApplication.compareTitle(CRMApplication.java:34)
+	at com.cucumber.setpDefinations.CRM_Login_BackgroundKeyword.Verify_Title_of_Login_Page(CRM_Login_BackgroundKeyword.java:54)
+	at ?.Then Verify Title of Login PageBackground(src/test/java/com/cucumber/features/CRM_BackgroundKeyword.feature:5)
+</textarea></div>
 			
 		</li>
-		<li test-id='5' class='node when pass' status='pass'>
+		<li test-id='5' class='node when skip' status='skip'>
 			
 			<b>When</b>
 			
 			<span class="bdd-step-name">When User enters Username and Password and Click on Login buttonBackground</span>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
-		<li test-id='6' class='node then pass' status='pass'>
+		<li test-id='6' class='node then skip' status='skip'>
 			
 			<b>Then</b>
 			
 			<span class="bdd-step-name">Then Verify Home PageBackground</span>
-			<ul class='screenshots right'>
-				<li><a data-featherlight="image" href="C:\Users\pmanala\workspace_New\automation-cucumber-demo/Results/chrome/chrome_2018-12-03_18_17_00_926/Verify Home Page Title4_2018-12-03_18_17_00_926.png"><i class='material-icons'>panorama</i></a></li>
-			</ul>
-				<div class='pre'>passed</div>
+				<div class='pre'>skipped</div>
 			
 		</li>
 	</ul>
 </div>
-<div class='scenariooutline node' test-id='7' status='pass'>
-	<span class='duration right label'>0h 0m 49s+536ms</span>
+<div class='scenariooutline node' test-id='7' status='fail'>
+	<span class='duration right label'>0h 0m 33s+629ms</span>
 	<div class='desc'>
 		<b>ScenarioOutline</b>
 		<span class="desc-text">Verify Login Functionality with Correct UserName and Password</span>
 	</div>
 	<ul class='steps'>
-		<li test-id='8' class='node scenario pass' status='pass'>
+		<li test-id='8' class='node scenario fail' status='fail'>
 			
 			<b>Scenario</b>
 			
@@ -247,27 +245,42 @@
 						<span class="bdd-step-name">Given Open the Browser and Enter URLBackground</span>
 							<div class='pre'>passed</div>
 					</li>
-					<li test-id='10' class='node then pass' status='pass'><b>Then</b>
+					<li test-id='10' class='node then fail' status='fail'><b>Then</b>
 						<span class="bdd-step-name">Then Verify Title of Login PageBackground</span>
-						<ul class='screenshots right'>
-							<li><a data-featherlight="image" href="C:\Users\pmanala\workspace_New\automation-cucumber-demo/Results/chrome/chrome_2018-12-03_18_17_00_926/Verify Login Page Title6_2018-12-03_18_17_00_926.png"><i class='material-icons'>panorama</i></a></li>
-						</ul>
-							<div class='pre'>passed</div>
+							<div class='pre'><pre>org.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PMANALA', ip: '192.168.2.128', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 5708, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e925be3b-491e-4a3f-b810-631aa89ee64a
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:280)
+	at com.cucumber.definedMethods.CRMApplication.compareTitle(CRMApplication.java:30)
+	at com.cucumber.setpDefinations.CRM_Login_BackgroundKeyword.Verify_Title_of_Login_Page(CRM_Login_BackgroundKeyword.java:54)
+	at ?.Then Verify Title of Login PageBackground(src/test/java/com/cucumber/features/CRM_BackgroundKeyword.feature:5)
+</pre></div>
 					</li>
-					<li test-id='11' class='node when pass' status='pass'><b>When</b>
+					<li test-id='11' class='node when skip' status='skip'><b>When</b>
 						<span class="bdd-step-name">When User enters "praneethmanala" and "praneethmanala" and Click on Login buttonBackground2</span>
-							<div class='pre'>passed</div>
+							<div class='pre'>skipped</div>
 					</li>
-					<li test-id='12' class='node then pass' status='pass'><b>Then</b>
+					<li test-id='12' class='node then skip' status='skip'><b>Then</b>
 						<span class="bdd-step-name">Then Verify Home PageBackground</span>
-						<ul class='screenshots right'>
-							<li><a data-featherlight="image" href="C:\Users\pmanala\workspace_New\automation-cucumber-demo/Results/chrome/chrome_2018-12-03_18_17_00_926/Verify Home Page Title8_2018-12-03_18_17_00_926.png"><i class='material-icons'>panorama</i></a></li>
-						</ul>
-							<div class='pre'>passed</div>
+							<div class='pre'>skipped</div>
 					</li>
 				</ul>
 		</li>
-		<li test-id='13' class='node scenario pass' status='pass'>
+		<li test-id='13' class='node scenario fail' status='fail'>
 			
 			<b>Scenario</b>
 			
@@ -278,23 +291,38 @@
 						<span class="bdd-step-name">Given Open the Browser and Enter URLBackground</span>
 							<div class='pre'>passed</div>
 					</li>
-					<li test-id='15' class='node then pass' status='pass'><b>Then</b>
+					<li test-id='15' class='node then fail' status='fail'><b>Then</b>
 						<span class="bdd-step-name">Then Verify Title of Login PageBackground</span>
-						<ul class='screenshots right'>
-							<li><a data-featherlight="image" href="C:\Users\pmanala\workspace_New\automation-cucumber-demo/Results/chrome/chrome_2018-12-03_18_17_00_926/Verify Login Page Title10_2018-12-03_18_17_00_926.png"><i class='material-icons'>panorama</i></a></li>
-						</ul>
-							<div class='pre'>passed</div>
+							<div class='pre'><pre>org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PMANALA', ip: '192.168.2.128', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 3300, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0eec5d9f-72d0-45b9-a06a-845424c3aede
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:280)
+	at com.cucumber.definedMethods.CRMApplication.compareTitle(CRMApplication.java:30)
+	at com.cucumber.setpDefinations.CRM_Login_BackgroundKeyword.Verify_Title_of_Login_Page(CRM_Login_BackgroundKeyword.java:54)
+	at ?.Then Verify Title of Login PageBackground(src/test/java/com/cucumber/features/CRM_BackgroundKeyword.feature:5)
+</pre></div>
 					</li>
-					<li test-id='16' class='node when pass' status='pass'><b>When</b>
+					<li test-id='16' class='node when skip' status='skip'><b>When</b>
 						<span class="bdd-step-name">When User enters "praneeth" and "praneeth" and Click on Login buttonBackground2</span>
-							<div class='pre'>passed</div>
+							<div class='pre'>skipped</div>
 					</li>
-					<li test-id='17' class='node then pass' status='pass'><b>Then</b>
+					<li test-id='17' class='node then skip' status='skip'><b>Then</b>
 						<span class="bdd-step-name">Then Verify Home PageBackground</span>
-						<ul class='screenshots right'>
-							<li><a data-featherlight="image" href="C:\Users\pmanala\workspace_New\automation-cucumber-demo/Results/chrome/chrome_2018-12-03_18_17_00_926/Verify Home Page Title12_2018-12-03_18_17_00_926.png"><i class='material-icons'>panorama</i></a></li>
-						</ul>
-							<div class='pre'>passed</div>
+							<div class='pre'>skipped</div>
 					</li>
 				</ul>
 		</li>
@@ -356,13 +384,13 @@
                             <div class='author-heading'>
                                 <span class='author-name'>CharterGlobal-PraneethKumarManala</span>
                                 <span class='author-status right'>
-                                        <span class='label pass'>3</span>
+                                        <span class='label fail'>3</span>
 						        </span>
                             </div>
                             <div class='author-content hide'>
                                 <div class='author-status-counts'>
-                                    <span class='label green accent-4 white-text'>Passed: 3</span>
                                     
+                                    <span class='label red lighten-1 white-text'>Failed: 3</span>
                                     
                                 </div>
 
@@ -377,19 +405,19 @@
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>Dec 3, 2018 06:17:00 PM</td>
+                                                <td>Dec 17, 2018 01:08:15 PM</td>
                                                 <td class='linked' test-id='2'>CRM Application Login functionality with Background Keyword.Verify Login Functionality with Correct UserName and Password</td>
-                                                <td><span class='test-status pass'>pass</span></td>
+                                                <td><span class='test-status fail'>fail</span></td>
                                             </tr>
                                             <tr>
-                                                <td>Dec 3, 2018 06:18:02 PM</td>
+                                                <td>Dec 17, 2018 01:09:09 PM</td>
                                                 <td class='linked' test-id='8'>CRM Application Login functionality with Background Keyword.Verify Login Functionality with Correct UserName and Password.Verify Login Functionality with Correct UserName and Password</td>
-                                                <td><span class='test-status pass'>pass</span></td>
+                                                <td><span class='test-status fail'>fail</span></td>
                                             </tr>
                                             <tr>
-                                                <td>Dec 3, 2018 06:18:32 PM</td>
+                                                <td>Dec 17, 2018 01:09:33 PM</td>
                                                 <td class='linked' test-id='13'>CRM Application Login functionality with Background Keyword.Verify Login Functionality with Correct UserName and Password.Verify Login Functionality with Correct UserName and Password</td>
-                                                <td><span class='test-status pass'>pass</span></td>
+                                                <td><span class='test-status fail'>fail</span></td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -404,6 +432,167 @@
     <div class='subview-right left'>
         <div class='view-summary'>
             <h5 class='author-name'></h5>
+        </div>
+    </div>
+</div>
+<div id='exception-view' class='view hide'>
+
+    <section id='controls'>
+        <div class='controls grey lighten-4'>
+            <!-- search -->
+            <div class='chip transparent' alt='Search Tests' title='Search Tests'>
+                <a href="#" class='search-div'>
+                    <i class='material-icons'>search</i> Search
+                </a>
+
+                <div class='input-field left hide'>
+                    <input id='search-tests' type='text' class='validate browser-default' placeholder='Search Tests...'>
+                </div>
+
+            </div>
+            <!-- search -->
+        </div>
+    </section>
+
+    <div class='subview-left left'>
+
+        <div class='view-summary'>
+            <h5>Exceptions</h3>
+                <ul id='exception-collection' class='exception-collection'>
+
+                        <li class='exception displayed active'>
+                            <div class='exception-heading'>
+                                <span class='exception-name'>junit.framework.ComparisonFailure</span>
+                                <span class='exception-count right'><span class='label red lighten-1 white-text'>1</span></span>
+                            </div>
+                            <div class='exception-content hide'>
+                                <div class='exception-tests'>
+                                    <table class='bordered table-results'>
+                                        <thead>
+                                        <tr>
+                                            <th>Timestamp</th>
+                                            <th>TestName</th>
+                                            <th>Status</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                                    <tr>
+                                                        <td>Dec 17, 2018 01:09:04 PM</td>
+                                                        <td class='linked' test-id='4'>CRM Application Login functionality with Background Keyword.Verify Login Functionality with Correct UserName and Password.Then Verify Title of Login PageBackground</td>
+                                                        <td><pre><textarea>junit.framework.ComparisonFailure: expected:<[#1 Free CRM software in the cloud for sales and service]> but was:<[Cable TV, Internet and Phone Plans | ConnectToXfinity]>
+	at junit.framework.Assert.assertEquals(Assert.java:85)
+	at junit.framework.Assert.assertEquals(Assert.java:91)
+	at com.cucumber.definedMethods.CRMApplication.compareTitle(CRMApplication.java:34)
+	at com.cucumber.setpDefinations.CRM_Login_BackgroundKeyword.Verify_Title_of_Login_Page(CRM_Login_BackgroundKeyword.java:54)
+	at ?.Then Verify Title of Login PageBackground(src/test/java/com/cucumber/features/CRM_BackgroundKeyword.feature:5)
+</textarea></pre></td>
+                                                    </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </li>
+                        <li class='exception displayed active'>
+                            <div class='exception-heading'>
+                                <span class='exception-name'>org.openqa.selenium.NoSuchWindowException</span>
+                                <span class='exception-count right'><span class='label red lighten-1 white-text'>1</span></span>
+                            </div>
+                            <div class='exception-content hide'>
+                                <div class='exception-tests'>
+                                    <table class='bordered table-results'>
+                                        <thead>
+                                        <tr>
+                                            <th>Timestamp</th>
+                                            <th>TestName</th>
+                                            <th>Status</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                                    <tr>
+                                                        <td>Dec 17, 2018 01:09:31 PM</td>
+                                                        <td class='linked' test-id='10'>CRM Application Login functionality with Background Keyword.Verify Login Functionality with Correct UserName and Password.Verify Login Functionality with Correct UserName and Password.Then Verify Title of Login PageBackground</td>
+                                                        <td><pre><pre>org.openqa.selenium.NoSuchWindowException: Browsing context has been discarded
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PMANALA', ip: '192.168.2.128', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 5708, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: e925be3b-491e-4a3f-b810-631aa89ee64a
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:280)
+	at com.cucumber.definedMethods.CRMApplication.compareTitle(CRMApplication.java:30)
+	at com.cucumber.setpDefinations.CRM_Login_BackgroundKeyword.Verify_Title_of_Login_Page(CRM_Login_BackgroundKeyword.java:54)
+	at ?.Then Verify Title of Login PageBackground(src/test/java/com/cucumber/features/CRM_BackgroundKeyword.feature:5)
+</pre></pre></td>
+                                                    </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </li>
+                        <li class='exception displayed active'>
+                            <div class='exception-heading'>
+                                <span class='exception-name'>org.openqa.selenium.WebDriverException</span>
+                                <span class='exception-count right'><span class='label red lighten-1 white-text'>1</span></span>
+                            </div>
+                            <div class='exception-content hide'>
+                                <div class='exception-tests'>
+                                    <table class='bordered table-results'>
+                                        <thead>
+                                        <tr>
+                                            <th>Timestamp</th>
+                                            <th>TestName</th>
+                                            <th>Status</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                                    <tr>
+                                                        <td>Dec 17, 2018 01:09:41 PM</td>
+                                                        <td class='linked' test-id='15'>CRM Application Login functionality with Background Keyword.Verify Login Functionality with Correct UserName and Password.Verify Login Functionality with Correct UserName and Password.Then Verify Title of Login PageBackground</td>
+                                                        <td><pre><pre>org.openqa.selenium.WebDriverException: Failed to decode response from marionette
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'PMANALA', ip: '192.168.2.128', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 63.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 3300, moz:profile: C:\Users\pmanala\AppData\Lo..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 6.1, rotatable: false, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 0eec5d9f-72d0-45b9-a06a-845424c3aede
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:280)
+	at com.cucumber.definedMethods.CRMApplication.compareTitle(CRMApplication.java:30)
+	at com.cucumber.setpDefinations.CRM_Login_BackgroundKeyword.Verify_Title_of_Login_Page(CRM_Login_BackgroundKeyword.java:54)
+	at ?.Then Verify Title of Login PageBackground(src/test/java/com/cucumber/features/CRM_BackgroundKeyword.feature:5)
+</pre></pre></td>
+                                                    </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </li>
+                </ul>
+        </div>
+    </div>
+
+    <div class='subview-right left'>
+        <div class='view-summary'>
+            <h5 class='exception-name'></h5>
         </div>
     </div>
 </div>
@@ -434,51 +623,19 @@
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Start
-					<div class='panel-lead'>Dec 3, 2018 06:17:00 PM</div>
+					<div class='panel-lead'>Dec 17, 2018 01:08:14 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 			 		End
-			 		<div class='panel-lead'>Dec 3, 2018 06:18:55 PM</div>
+			 		<div class='panel-lead'>Dec 17, 2018 01:09:44 PM</div>
 				</div>
 			</div>
 			<div class='col s2'>
 				<div class='card-panel r'>
 					Time Taken
-					<div class='panel-lead'>114,481ms</div>
-				</div>
-			</div>
-			<div class='col s4'>
-				<div class='card-panel dashboard-environment'>
-					<span class='right label cyan white-text'>Environment</span><p>&nbsp;</p>
-					
-					<table>
-						<tr>
-							<th>Name</th>
-							<th>Value</th>
-						</tr>
-							<tr>
-								<td>UserName</td>
-								<td>pmanala</td>
-							</tr>
-							<tr>
-								<td>ProjectName</td>
-								<td>CRM</td>
-							</tr>
-							<tr>
-								<td>Selenium</td>
-								<td>3.14.0</td>
-							</tr>
-							<tr>
-								<td>Maven</td>
-								<td>3.3.9</td>
-							</tr>
-							<tr>
-								<td>Java Version</td>
-								<td>1.8.0_191</td>
-							</tr>
-					</table>
+					<div class='panel-lead'>89,747ms</div>
 				</div>
 			</div>
 		</div>
@@ -491,31 +648,31 @@
 
 		<script>
 			var statusGroup = {
-				passParent: 1,
-				failParent: 0,
+				passParent: 0,
+				failParent: 1,
 				fatalParent: 0,
 				errorParent: 0,
 				warningParent: 0,
 				skipParent: 0,
-				exceptionsParent: 0,
+				exceptionsParent: 1,
 				
-				passChild: 3,
-				failChild: 0,
+				passChild: 0,
+				failChild: 3,
 				fatalChild: 0,
 				errorChild: 0,
 				warningChild: 0,
 				skipChild: 0,
 				infoChild: 0,
-				exceptionsChild: 0,
+				exceptionsChild: 3,
 				
-				passGrandChild: 12,
-				failGrandChild: 0,
+				passGrandChild: 3,
+				failGrandChild: 3,
 				fatalGrandChild: 0,
 				errorGrandChild: 0,
 				warningGrandChild: 0,
-				skipGrandChild: 0,
+				skipGrandChild: 6,
 				infoGrandChild: 0,
-				exceptionsGrandChild: 0,
+				exceptionsGrandChild: 9,
 			};
 		</script>
 		
@@ -523,13 +680,6 @@
 		
 		
  		<script type='text/javascript'>
- 			
-      
-        $(document).ready(function() {
-        
-        });
-      
-    
  		</script>
 	</body>
 	

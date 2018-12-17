@@ -20,7 +20,7 @@ import cucumber.api.java.en.When;
 
 public class CRM_Login_Hooks extends ActionDrivers{
 	
-	private static final Logger loger = Logger.getLogger(CRMLoginFunctionality.class.getName());
+	private static final Logger loger = Logger.getLogger(CRM_Login_Hooks.class.getName());
     
 	//WebDriver driver;
 	ExtentTest logger=ComplexReportFactory.getTest();	
@@ -54,6 +54,7 @@ public class CRM_Login_Hooks extends ActionDrivers{
 		crm.compareTitle();
 		takeScreenShotForPass("Verify Login Page Title", "Comparing Title of Login Page", "", "", "");
 	}
+	
 	@When("^User enters Username and Password and Click on Login buttonHooks$")
 	public void user_enters_Username_and_Password_and_Click_on_Login_button() throws MalformedURLException, InterruptedException  {
 	   

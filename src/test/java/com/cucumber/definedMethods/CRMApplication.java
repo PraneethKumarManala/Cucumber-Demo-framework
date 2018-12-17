@@ -108,4 +108,53 @@ public class CRMApplication extends Base {
 
 		}
 	}
+	
+	
+	public void xfinityBundleslink() {
+		 
+		  driver.findElement(By.id("dataCtoxBundlesNav")).click();
+		  String expectedtitle=driver.getTitle();
+		  System.out.println("The Expected title is :"+expectedtitle);
+		  String actualtitel="Cable, Internet and Phone Bundles | ConnectToXfinity";
+		  System.out.println("The Actual title is :"+actualtitel);
+		  Assert.assertEquals(expectedtitle, actualtitel);
+		 
+		  System.out.println("Expected title and Actual Titles are matched");
+	}
+	
+	public void xfinityInternetlink() {
+		 
+		  driver.findElement(By.id("dataCtoxInternetNav")).click();
+		  String expectedtitle=driver.getTitle();
+		  System.out.println("The Expected title is :"+expectedtitle);
+		  String actualtitel="Internet Plans and Packages | ConnectToXfinity";
+		  System.out.println("The Actual title is :"+actualtitel);
+		  Assert.assertEquals(expectedtitle, actualtitel);
+		 
+		  System.out.println("Expected title and Actual Titles are matched");
+	}
+	
+	public void xfinityTVlink() {
+		 
+		  driver.findElement(By.id("dataCtoxTvNav")).click();
+		  String expectedtitle=driver.getTitle();
+		  System.out.println("The Expected title is :"+expectedtitle);
+		  String actualtitel="Cable TV, Internet and Phone Plans | ConnectToXfinity";
+		  System.out.println("The Actual title is :"+actualtitel);
+		  Assert.assertEquals(expectedtitle, actualtitel);
+		 
+		  System.out.println("Expected title and Actual Titles are matched");
+	}
+	
+	public void xfinityVoicelink() {
+		 
+		  driver.findElement(By.id("dataCtoxVoiceNav")).click();
+		  String expectedtitle=driver.getTitle();
+		  System.out.println("The Expected title is :"+expectedtitle);
+		  String actualtitel="Voice and Home Phone | ConnectToXfinity";
+		  System.out.println("The Actual title is :"+actualtitel);
+		  Assert.assertEquals(expectedtitle, actualtitel);
+		 
+		  System.out.println("Expected title and Actual Titles are matched");
+	}
 }
